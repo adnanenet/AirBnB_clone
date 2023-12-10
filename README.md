@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Adnane** <[cyberjujutsu](https://github.com/cyberjujutsu)>
+* **Adnane Ben Souda** <[cyberjujutsu](https://github.com/cyberjujutsu)>
 * **Lennon Paul** <[Ngadi-Git](https://github.com/Ngadi-Git)>

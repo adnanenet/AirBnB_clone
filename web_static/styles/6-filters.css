@@ -69,11 +69,15 @@
 /* Locations list style */
 .filters .locations ul {
   padding: 6px 0 6px 0;
+
+}
+ul {
+  list-style-type: none;
 }
 
 /* Locations list element margin */
 .filters .locations li {
-  margin: 0 auto 6px 3em;
+  margin: 0 auto 6px 1.2em;
 }
 
 /* Amenities list element margin */
@@ -98,7 +102,7 @@
 .filters h2 {
   font-size: 16px;
   font-weight: bold;
-  margin: 12px auto 0 30px;
+  margin: 12px auto 0 0px;
 }
 
 /* Header 3 style */
